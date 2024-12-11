@@ -4,4 +4,4 @@ Movies
 music
 Saved Games
 
-Movies and Saved Games aren't avalable rn but it's still best to make those folders so your game doesn't crash
+Movies and Saved Games aren't avalable at the moment
