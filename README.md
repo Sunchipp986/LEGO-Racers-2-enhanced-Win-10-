@@ -9,3 +9,5 @@ Be sure all is in a LEGO Racers 2 folder somewhere on your PC and be sure to to 
 
 The GAMEDATA.GTC is too big for github so I'll link the download to the file here
 https://drive.google.com/file/d/14obj6xDq1ZvA1ty1XunFVFu6lDu23Rt0/view?usp=sharing
+
+I forgot who made the discless patch but credit to them!
