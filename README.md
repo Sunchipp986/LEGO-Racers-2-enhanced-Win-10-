@@ -3,6 +3,7 @@ A Re-release of LEGO Racers 2 but with some improvements
 
 Be sure all is in a LEGO Racers 2 folder somewhere on your PC and be sure to to have the following folders in that folder:
 
+game data
 * Movies
 * music
 * Saved Games
